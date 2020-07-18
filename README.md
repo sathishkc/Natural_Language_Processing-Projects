@@ -1,5 +1,5 @@
 # Natural_Language_Processing-Projects
-Projects done as part of Udacity's NLP Nanodegree program
+Projects done as part of NLP Nanodegree program from Udacity
 
 # Projects of Natural Language Processing
 

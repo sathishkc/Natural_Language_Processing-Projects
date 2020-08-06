@@ -9,3 +9,4 @@ Projects done as part of NLP Nanodegree program from Udacity
 
 3. End-to-end Automatic Speech Recognition with Convolutional Neural Networks and Recurrent Neural Networks
 
+![NLP Nanodegree graduation certificate](NLP_ND_Graduation.png)
